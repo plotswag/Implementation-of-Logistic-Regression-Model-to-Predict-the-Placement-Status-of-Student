@@ -1,4 +1,5 @@
-# EXP-4 Implementation of Logistic Regression Model to Predict the Placement Status of Student
+# date:15.3.24
+#  Implementation of Logistic Regression Model to Predict the Placement Status of Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
